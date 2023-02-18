@@ -1,0 +1,6 @@
+def mull(a,b):
+  mu=a*b
+  return mu
+obj=mull(4,5)
+print(obj)
+  
