@@ -6,3 +6,6 @@ driver.get("")
 ele=driver.find_element(By.XPATH)
 act=ActionChains(driver)
 act.double_click()
+
+act.click()
+act.pause()
